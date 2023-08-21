@@ -1,0 +1,49 @@
+{
+    "lb": {
+        "name": {
+            "singular": "pound",
+            "plural": "pounds"
+        },
+        "abbreviation": "lb",
+        "base": "oz",
+        "ratio": 16
+    },
+    "oz": {
+        "name": {
+            "singular": "ounce",
+            "plural": "ounces"
+        },
+        "abbreviation": "oz",
+        "base": "oz",
+        "ratio": 1
+    },
+
+    
+    "c": {
+        "name": {
+            "singular": "cup",
+            "plural": "cups"
+        },
+        "abbreviation": "c",
+        "base": "tsp",
+        "ratio": 48
+    },
+    "tbsp": {
+        "name": {
+            "singular": "tablespoon",
+            "plural": "tablespoons"
+        },
+        "abbreviation": "tbsp",
+        "base": "tsp",
+        "ratio": 3
+    },
+    "tsp": {
+        "name": {
+            "singular": "teaspoon",
+            "plural": "teaspoon"
+        },
+        "abbreviation": "tsp",
+        "base": "tsp",
+        "ratio": 1
+    }
+}
